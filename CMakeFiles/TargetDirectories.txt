@@ -1,0 +1,3 @@
+C:/MedicalGT/ITK/Test/Hello_bin/CMakeFiles/HelloWorld.dir
+C:/MedicalGT/ITK/Test/Hello_bin/CMakeFiles/ALL_BUILD.dir
+C:/MedicalGT/ITK/Test/Hello_bin/CMakeFiles/ZERO_CHECK.dir
